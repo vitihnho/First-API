@@ -1,0 +1,12 @@
+# Ignorar pasta de dados do PostgreSQL
+data/
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos do sistema
+.DS_Store
