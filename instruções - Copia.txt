@@ -1,0 +1,11 @@
+######### DOCKER #########
+
+Necessário a instalação:
+
+- Docker Desktop
+- WLS Linux para Windows
+
+Criar o arquivo docker-compose.yml (mesma pasta do ambiente virtual)
+
+docker compose up -d
+
